@@ -1,0 +1,24 @@
+total 344
+-rwxrwxr-x 1 dunglx dunglx 34784 Thg 2  16 15:06 atomic_append
+-rw-r--r-- 1 dunglx dunglx  2438 Thg 1   9 22:21 atomic_append.c
+-rwxrwxr-x 1 dunglx dunglx 28096 Thg 2  16 15:06 bad_exclusive_open
+-rw-r--r-- 1 dunglx dunglx  2621 Thg 1   9 22:21 bad_exclusive_open.c
+-rwxrwxr-x 1 dunglx dunglx 28288 Thg 2  16 15:06 copy
+-rw-r--r-- 1 dunglx dunglx  2070 Thg 1   9 22:21 copy.c
+-rwxrwxr-x 1 dunglx dunglx 28056 Thg 2  16 15:06 large_file
+-rw-r--r-- 1 dunglx dunglx  1380 Thg 1   9 22:21 large_file.c
+-rw-r--r-- 1 dunglx dunglx   337 Thg 2  17 09:21 Makefile
+-rwxrwxr-x 1 dunglx dunglx 28224 Thg 2  16 15:06 multi_descriptors
+-rw-r--r-- 1 dunglx dunglx  2081 Thg 1   9 22:21 multi_descriptors.c
+-rw-rw-r-- 1 dunglx dunglx     0 Thg 2  17 12:24 result.txt
+-rwxrwxr-x 1 dunglx dunglx 35664 Thg 2  16 15:06 seek_io
+-rw-r--r-- 1 dunglx dunglx  3746 Thg 1   9 22:21 seek_io.c
+-rwxrwxr-x 1 dunglx dunglx 28464 Thg 2  17 12:23 tee_command
+-rw-rw-r-- 1 dunglx dunglx  2629 Thg 2  17 12:23 tee_command.c
+-rw-rw-r-- 1 dunglx dunglx  1278 Thg 2  17 09:18 tee.txt
+-rwxrwxr-x 1 dunglx dunglx 17752 Thg 2  17 09:20 test
+-rw-rw-r-- 1 dunglx dunglx  1256 Thg 2  16 17:47 test.c
+-rwxrwxr-x 1 dunglx dunglx 29008 Thg 2  16 15:06 t_readv
+-rw-r--r-- 1 dunglx dunglx  2128 Thg 1   9 22:21 t_readv.c
+-rwxrwxr-x 1 dunglx dunglx 29992 Thg 2  16 15:06 t_truncate
+-rw-r--r-- 1 dunglx dunglx  1166 Thg 1   9 22:21 t_truncate.c
